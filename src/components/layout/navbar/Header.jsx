@@ -32,7 +32,7 @@ function Header(props) {
   const drawer = (
     <Box onClick={handleDrawerToggle} sx={{ textAlign: "center" }}>
       <Typography variant="h6" sx={{ my: 2 }}>
-        <a href="/"><img src="../public/LevelOne.png" alt="logo" width={60}/></a>
+        <a href="/"><img src="https://res.cloudinary.com/dcfsspuhw/image/upload/v1686063053/e-commerce%20CODERHOUSE/LevelOne_n7wdf7.png" alt="logo" width={60}/></a>
       </Typography>
       <Divider />
       <List>
@@ -62,7 +62,7 @@ function Header(props) {
               <MenuIcon />
             </IconButton>
             <Typography sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}>
-              <a href="/"><img src="../public/LevelOne.png" alt="logo" width={60}/></a>
+              <a href="/"><img src="https://res.cloudinary.com/dcfsspuhw/image/upload/v1686063053/e-commerce%20CODERHOUSE/LevelOne_n7wdf7.png" alt="logo" width={60}/></a>
             </Typography>
 
             <Box sx={{ display: { xs: "none", sm: "block" } }}>
