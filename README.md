@@ -6,7 +6,7 @@
 
 ## Visite el sitio
 
-[Sitio web](https://github.com/BarabasAxel/ProyectoFinal.git)
+[Sitio web](https://proyecto-final-etas.vercel.app)
 
 [Sitio en Github](https://github.com/BarabasAxel/ProyectoFinal.git)
 
