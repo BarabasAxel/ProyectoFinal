@@ -9,11 +9,3 @@
 [Sitio web](https://proyecto-final-etas.vercel.app)
 
 [Sitio en Github](https://github.com/BarabasAxel/ProyectoFinal.git)
-
-
-### No pude subir mi ecommerce a vercel, lo intente 3 veces, me quedaba siempre en el deploy (yo creo que es por mi conexion a internet).
-
-##### Me quedaba siempre aca:
-![Alt text](https://res.cloudinary.com/dcfsspuhw/image/upload/v1689389097/vercel_zqdads.png)
-
-![Alt text](https://res.cloudinary.com/dcfsspuhw/image/upload/v1689389609/vencel2_o9lnc8.png)
