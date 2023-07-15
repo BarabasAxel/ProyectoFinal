@@ -6,17 +6,9 @@
 
 ## Visite el sitio
 
-[Sitio web]()
+[Sitio web](https://github.com/BarabasAxel/ProyectoFinal.git)
 
 [Sitio en Github](https://github.com/BarabasAxel/ProyectoFinal.git)
-
-### Para clonar el repositorio ejecute
-
-```
-
-git clone https://github.com/javalos87/Ebook.git
-
-```
 
 
 ### No pude subir mi ecommerce a vercel, lo intente 3 veces, me quedaba siempre en el deploy (yo creo que es por mi conexion a internet).
